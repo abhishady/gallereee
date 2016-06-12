@@ -1,0 +1,14 @@
+.adminmenu{
+    width:200px;
+    height:45px;
+    text-align: center;
+    background: teal;
+    border-radius:25px;
+    margin-top:10px;
+    padding-top:5px;
+    font-size: 18px;
+    color:#f1f1f1;
+}
+.adminmenu:hover{
+    cursor: pointer;
+}
